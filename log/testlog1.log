@@ -1,0 +1,4 @@
+2023-11-23 09:59:59,159 [main] INFO testcases.LoginTest - username is enetered
+2023-11-23 10:00:01,361 [main] INFO testcases.LoginTest - password is enetered
+2023-11-23 10:00:04,266 [main] INFO testcases.LoginTest - user is succefully logging inito the account
+2023-11-23 10:00:04,291 [main] INFO testcases.LoginTest - testcase is failed
